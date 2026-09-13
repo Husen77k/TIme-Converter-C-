@@ -40,7 +40,7 @@ Total Seconds: 16470
 
 ### Time Converter
 
-![Q1 Output](https://github.com/Husen77k/Time-Converter-C-/blob/main/Time-Converter/output/q1.png?raw=true)
+![Q1 Output](https://github.com/Husen77k/TIme-Converter-C-/raw/refs/heads/main/Time-Converter/output/q1.png)
 ---
 Time-Converter-C-/
 │
