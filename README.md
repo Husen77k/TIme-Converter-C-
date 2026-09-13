@@ -35,18 +35,45 @@ Total Seconds: 16470
 ```
 
 ---
+
 ## 🖥️ Output
 
 ### Time Converter
 
-![Q1 Output](Time-Converter/output/q1.png)
+![Q1 Output](output/q1.png)
+
 ---
-Time-Converter-C-/
+
+## 📁 Project Structure
+
+```text
+Time-Converter/
 │
-├── Time-Converter/
-│   ├── output/
-│   │   └── q1.png
-│   ├── a.exe
-│   └── time-converter.cpp
-│
+├── output/
+│   └── q1.png
+├── a.exe
+├── time-converter.cpp
 └── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+Compile:
+
+```bash
+g++ time-converter.cpp -o time-converter
+```
+
+Run:
+
+```powershell
+.\time-converter.exe
+```
+
+---
+
+## 🎯 Purpose
+
+This project was created as part of my **C++ programming practice** to understand classes, functions, arithmetic operations, and menu-driven programs.
