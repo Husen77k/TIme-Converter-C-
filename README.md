@@ -39,8 +39,7 @@ Total Seconds: 16470
 
 ### Time Converter
 
-![Q1 Output](output/q1.png)
-
+![Q1 Output](Time-Converter/output/q1.png)
 ---
 Time-Converter-C-/
 │
