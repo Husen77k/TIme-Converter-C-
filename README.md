@@ -41,7 +41,6 @@ Total Seconds: 16470
 ### Time Converter
 
 ![Output](output/q1.png)
-
 ---
 
 ## 📁 Project Structure
