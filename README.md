@@ -40,16 +40,14 @@ Total Seconds: 16470
 
 ### Time Converter
 
-![Q1 Output](./output/q1.png)
+![Q1 Output](./Time-Converter/output/q1.png)
 ---
-## 📁 Project Structure
-
-```text
-Time-Converter/
+Time-Converter-C-/
 │
-├── output/
-│   └── q1.png
-├── a.exe
-├── time-converter.cpp
+├── Time-Converter/
+│   ├── output/
+│   │   └── q1.png
+│   ├── a.exe
+│   └── time-converter.cpp
+│
 └── README.md
-
